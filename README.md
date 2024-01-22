@@ -5,7 +5,7 @@
 ​💻​ Je pratique l'HTML, le CSS et le JSS au quotidien ​!
 
 
-##🕶️ Compétences et intérêts 
+## 🕶️ Compétences et intérêts 
 
 - HTML, CSS et JS ( en cours d'apprentissage )
 - Créativité qui s'exprime sur Figma, Canva et dans mes créations web
