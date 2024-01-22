@@ -18,6 +18,6 @@
 
 N'hésitez pas à me contacter si mon profil vous intéresse !
 
-![Alt Text]([http://www.imgur.com/](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)
+![]([http://www.imgur.com/](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)
 
 
