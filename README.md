@@ -1,6 +1,6 @@
-# Salut, je suis Calli 👋​
+### Salut, je suis Calli 👋​
 
- Je suis une apprenante chez Simplon, au sein de la formation Dev Web de Aix en Provence.
+​👩‍💻​ Je suis une apprenante chez Simplon, au sein de la formation Dev Web de Aix en Provence.
  
 ​💻​ Je pratique l'HTML, le CSS et le JSS au quotidien ​!
 
