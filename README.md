@@ -2,12 +2,13 @@
 
 ​👩‍💻​ Je suis une apprenante chez Simplon, au sein de la formation Dev Web de Aix en Provence.
  
-​💻​ Je pratique l'HTML, le CSS et le JS au quotidien ​! Je commence même à coder en React.
+​💻​ Je pratique l'HTML, le CSS et le JS au quotidien ​! 
 
 
 ## 🕶️ Compétences et intérêts 
 
-- HTML, CSS et JS ( en cours d'apprentissage )
+- HTML, CSS, JS et MySQL
+- Je sais travailler sous React et j'ai des bases en symfony
 - Créativité qui s'exprime sur Figma, Canva et dans mes créations web
 - Curiosité pour toujours en apprendre plus
 
