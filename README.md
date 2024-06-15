@@ -15,9 +15,11 @@
 ## 💼Projet pour le futur
 
 - ​ Maitriser la création de site web et d'applications
-- ​ Trouver un stage profesionnalisant
+- ​ Trouver l'alternance qui saura me propulser dans le monde professionnel
 
-N'hésitez pas à me contacter si mon profil vous intéresse !
+## N'hésitez pas à me contacter si mon profil vous intéresse !
+ - Ici : https://www.linkedin.com/in/calli-peter-23b079218/
+ - Ou ici : callipter@gmail.com
 
 ![](https://media.giphy.com/media/yYSSBtDgbbRzq/giphy.gif)
 
